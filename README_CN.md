@@ -1,6 +1,6 @@
-# 骤雨重山图床
+# Imgur图床
 
-> 在现代互联网环境中，快速稳定的图片访问是提升用户体验的重要因素之一。本文将介绍如何利用Cloudflare Pages部署稳定的无限图床Imgur，实现图片上传和访问，并进一步通过WordPress的WP.COM全球图片缓存进行加速，提高图片加载速度。可用于免费图片托管解决方案，Flickr 等替代品。
+> 在现代互联网环境中，快速稳定的图片访问是提升用户体验的重要因素之一。本文将介绍如何利用Cloudflare Pages部署稳定的无限Imgur图床Imgur，实现图片上传和访问，并进一步通过WordPress的WP.COM全球图片缓存进行加速，提高图片加载速度。可用于免费图片托管解决方案，Flickr 等替代品。
 
 [English](https://github.com/uxiaohan/ZYCS-IMG) | 简体中文
 
@@ -8,7 +8,7 @@
 
 - [Cloudflare Pages](https://pages.cloudflare.com/) 是一个强大的静态网站托管服务，结合了 Cloudflare 的全球 CDN（内容分发网络）优势。
 
-- [Imgur](https://imgur.com/) 是一个免费优质的图床。
+- [Imgur](https://imgur.com/) 是一个免费优质的Imgur图床。
 
 - [WordPress 的全球图片缓存](https://01.wp.com/) 是一个高效的 CDN 服务，专门用于加速 WordPress 托管的图片内容。它利用全球分布的节点，将图片缓存并提供快速访问。
 
@@ -16,7 +16,7 @@
 
 ### 页面
 
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721639712.png)
+![Imgur图床](https://uxiaohan.github.io/v2/2024/07/1721639712.png)
 
 [点击体验Demo](https://wp-cdn.4ce.cn/)
 
@@ -26,11 +26,11 @@
 
 Vercel 自动部署
 
-[![骤雨重山图床](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/ZYCS-IMG)
+[![Imgur图床](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/ZYCS-IMG)
 
 Cloudflare Pages 自动部署
 
-[![骤雨重山图床](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/uxiaohan/ZYCS-IMG)
+[![Imgur图床](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/uxiaohan/ZYCS-IMG)
 
 **手动部署**
 
@@ -42,9 +42,9 @@ Cloudflare Pages 自动部署
 
 **图片步骤**
 
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640641.png)
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640649.png)
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640656.png)
+![Imgur图床](https://uxiaohan.github.io/v2/2024/07/1721640641.png)
+![Imgur图床](https://uxiaohan.github.io/v2/2024/07/1721640649.png)
+![Imgur图床](https://uxiaohan.github.io/v2/2024/07/1721640656.png)
 
 ### 特点
 
